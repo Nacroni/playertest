@@ -2,7 +2,7 @@
 import pygame, aaeasy, logging, sys
 from pygame.locals import * # type: ignore
 
-screen_resolution = (1280, 720)
+screen_resolution = (640, 480)
 fullscreen = False
 logging.info("screen resolution and fullscreen vars set")
 
